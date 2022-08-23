@@ -12,6 +12,7 @@
 
         <module>eurekaserver</module>
         <module>peoplemanage</module>
+        <module>peopleanalyse</module>
     </modules>
     <packaging>pom</packaging>
 
